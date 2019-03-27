@@ -1,0 +1,3 @@
+github上传，创建仓库
+$ ssh-keygen -t rsa -C "邮箱名字"
+然后根据网页提示
